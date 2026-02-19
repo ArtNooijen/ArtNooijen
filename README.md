@@ -1,4 +1,3 @@
-## 🐍 Contribution Snake
 This animation setup was inspired by another GitHub profile configuration[^inspiration] and implemented using the GitHub Snake Action.[^snake]
 
 <picture>
